@@ -1,6 +1,5 @@
 # ToDo-アプリ
 ## SetUp Backend
-1. ToDo-アプリ(バックエンド)を構築する ※バックエンドから始めた方は不要です
     - https://github.com/oasys-tech/ToDo-Backend
     1. gitをインストールする
         * Checkout as-is, commit Unix-style line endings : true
