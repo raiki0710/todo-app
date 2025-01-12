@@ -1,6 +1,5 @@
 # ToDo-アプリ
 ## SetUp Backend
-    - https://github.com/oasys-tech/ToDo-Backend
     1. gitをインストールする
         * Checkout as-is, commit Unix-style line endings : true
         * Enable symbolic links : true
@@ -54,6 +53,3 @@
 ## 動作確認
     * xamppのApacheを起動する
     * http://localhost
-# todo-app
-# todo-app
-# todo-app
